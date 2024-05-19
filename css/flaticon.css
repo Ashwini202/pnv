@@ -1,0 +1,361 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.woff2?0dfb4822004fbcc993aae7533ea9b735") format("woff2"),
+url("../fonts/flaticon.woff?0dfb4822004fbcc993aae7533ea9b735") format("woff"),
+url("../fonts/flaticon.eot?0dfb4822004fbcc993aae7533ea9b735#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.ttf?0dfb4822004fbcc993aae7533ea9b735") format("truetype"),
+url("../fonts/flaticon.svg?0dfb4822004fbcc993aae7533ea9b735#flaticon") format("svg")
+}
+
+i[class^="fab-xcare-icon-"]:before, i[class*=" fab-xcare-icon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fab-xcare-icon-doctor:before {
+    content: "\f101";
+}
+.fab-xcare-icon-appointment:before {
+    content: "\f102";
+}
+.fab-xcare-icon-placeholder:before {
+    content: "\f103";
+}
+.fab-xcare-icon-gesundheit:before {
+    content: "\f104";
+}
+.fab-xcare-icon-gesundheit-1:before {
+    content: "\f105";
+}
+.fab-xcare-icon-team:before {
+    content: "\f106";
+}
+.fab-xcare-icon-family:before {
+    content: "\f107";
+}
+.fab-xcare-icon-hospital-building:before {
+    content: "\f108";
+}
+.fab-xcare-icon-emergency:before {
+    content: "\f109";
+}
+.fab-xcare-icon-laboratory:before {
+    content: "\f10a";
+}
+.fab-xcare-icon-first-aid-kit:before {
+    content: "\f10b";
+}
+.fab-xcare-icon-patient:before {
+    content: "\f10c";
+}
+.fab-xcare-icon-medical-equipment:before {
+    content: "\f10d";
+}
+.fab-xcare-icon-consultation:before {
+    content: "\f10e";
+}
+.fab-xcare-icon-prescription:before {
+    content: "\f10f";
+}
+.fab-xcare-icon-medical-stretcher:before {
+    content: "\f110";
+}
+.fab-xcare-icon-pediatrics:before {
+    content: "\f111";
+}
+.fab-xcare-icon-orthopedics:before {
+    content: "\f112";
+}
+.fab-xcare-icon-joint:before {
+    content: "\f113";
+}
+.fab-xcare-icon-lunges:before {
+    content: "\f114";
+}
+.fab-xcare-icon-dental:before {
+    content: "\f115";
+}
+.fab-xcare-icon-insurance:before {
+    content: "\f116";
+}
+.fab-xcare-icon-stethoscope:before {
+    content: "\f117";
+}
+.fab-xcare-icon-laboratory-1:before {
+    content: "\f118";
+}
+.fab-xcare-icon-hospital:before {
+    content: "\f119";
+}
+.fab-xcare-icon-high-temperature:before {
+    content: "\f11a";
+}
+.fab-xcare-icon-healthcare:before {
+    content: "\f11b";
+}
+.fab-xcare-icon-cough:before {
+    content: "\f11c";
+}
+.fab-xcare-icon-injection:before {
+    content: "\f11d";
+}
+.fab-xcare-icon-pharmacy:before {
+    content: "\f11e";
+}
+.fab-xcare-icon-medicine:before {
+    content: "\f11f";
+}
+.fab-xcare-icon-cardiology:before {
+    content: "\f120";
+}
+.fab-xcare-icon-runny-nose:before {
+    content: "\f121";
+}
+.fab-xcare-icon-ear:before {
+    content: "\f122";
+}
+.fab-xcare-icon-eye-examination:before {
+    content: "\f123";
+}
+.fab-xcare-icon-mask:before {
+    content: "\f124";
+}
+.fab-xcare-icon-laboratory-2:before {
+    content: "\f125";
+}
+.fab-xcare-icon-eye:before {
+    content: "\f126";
+}
+.fab-xcare-icon-brain:before {
+    content: "\f127";
+}
+.fab-xcare-icon-molecule:before {
+    content: "\f128";
+}
+.fab-xcare-icon-pharmacy-1:before {
+    content: "\f129";
+}
+.fab-xcare-icon-report:before {
+    content: "\f12a";
+}
+.fab-xcare-icon-inhalator:before {
+    content: "\f12b";
+}
+.fab-xcare-icon-coronavirus:before {
+    content: "\f12c";
+}
+.fab-xcare-icon-world:before {
+    content: "\f12d";
+}
+.fab-xcare-icon-sphygmomanometer:before {
+    content: "\f12e";
+}
+.fab-xcare-icon-transfusion:before {
+    content: "\f12f";
+}
+.fab-xcare-icon-chemistry:before {
+    content: "\f130";
+}
+.fab-xcare-icon-vaccine:before {
+    content: "\f131";
+}
+.fab-xcare-icon-pills:before {
+    content: "\f132";
+}
+.fab-xcare-icon-helicopter:before {
+    content: "\f133";
+}
+.fab-xcare-icon-ventilation:before {
+    content: "\f134";
+}
+.fab-xcare-icon-cardiogram:before {
+    content: "\f135";
+}
+.fab-xcare-icon-wheel-chair:before {
+    content: "\f136";
+}
+.fab-xcare-icon-sugar-blood-level:before {
+    content: "\f137";
+}
+.fab-xcare-icon-hospital-bed:before {
+    content: "\f138";
+}
+.fab-xcare-icon-surgery-room:before {
+    content: "\f139";
+}
+.fab-xcare-icon-oxygen-tank:before {
+    content: "\f13a";
+}
+.fab-xcare-icon-pedicure:before {
+    content: "\f13b";
+}
+.fab-xcare-icon-elbow:before {
+    content: "\f13c";
+}
+.fab-xcare-icon-liver:before {
+    content: "\f13d";
+}
+.fab-xcare-icon-pils:before {
+    content: "\f13e";
+}
+.fab-xcare-icon-ct-scan:before {
+    content: "\f13f";
+}
+.fab-xcare-icon-live-chat:before {
+    content: "\f140";
+}
+.fab-xcare-icon-test-tube:before {
+    content: "\f141";
+}
+.fab-xcare-icon-thermometer:before {
+    content: "\f142";
+}
+.fab-xcare-icon-lab-equipment:before {
+    content: "\f143";
+}
+.fab-xcare-icon-drill:before {
+    content: "\f144";
+}
+.fab-xcare-icon-sick:before {
+    content: "\f145";
+}
+.fab-xcare-icon-coronavirus-1:before {
+    content: "\f146";
+}
+.fab-xcare-icon-transfusion-1:before {
+    content: "\f147";
+}
+.fab-xcare-icon-thermometer-1:before {
+    content: "\f148";
+}
+.fab-xcare-icon-handwash:before {
+    content: "\f149";
+}
+.fab-xcare-icon-blood-test:before {
+    content: "\f14a";
+}
+.fab-xcare-icon-chemistry-1:before {
+    content: "\f14b";
+}
+.fab-xcare-icon-microscope:before {
+    content: "\f14c";
+}
+.fab-xcare-icon-hospital-1:before {
+    content: "\f14d";
+}
+.fab-xcare-icon-time:before {
+    content: "\f14e";
+}
+.fab-xcare-icon-chemistry-2:before {
+    content: "\f14f";
+}
+.fab-xcare-icon-search:before {
+    content: "\f150";
+}
+.fab-xcare-icon-tools:before {
+    content: "\f151";
+}
+.fab-xcare-icon-tools-1:before {
+    content: "\f152";
+}
+.fab-xcare-icon-cardiogram-1:before {
+    content: "\f153";
+}
+.fab-xcare-icon-stethoscope-1:before {
+    content: "\f154";
+}
+.fab-xcare-icon-laboratory-3:before {
+    content: "\f155";
+}
+.fab-xcare-icon-bed:before {
+    content: "\f156";
+}
+.fab-xcare-icon-ppe:before {
+    content: "\f157";
+}
+.fab-xcare-icon-cough-1:before {
+    content: "\f158";
+}
+.fab-xcare-icon-ambulance:before {
+    content: "\f159";
+}
+.fab-xcare-icon-dna:before {
+    content: "\f15a";
+}
+.fab-xcare-icon-rx:before {
+    content: "\f15b";
+}
+.fab-xcare-icon-injection-1:before {
+    content: "\f15c";
+}
+.fab-xcare-icon-injection-2:before {
+    content: "\f15d";
+}
+.fab-xcare-icon-medicine-1:before {
+    content: "\f15e";
+}
+.fab-xcare-icon-face-mask:before {
+    content: "\f15f";
+}
+.fab-xcare-icon-medicine-2:before {
+    content: "\f160";
+}
+.fab-xcare-icon-vaccine-1:before {
+    content: "\f161";
+}
+.fab-xcare-icon-lungs:before {
+    content: "\f162";
+}
+.fab-xcare-icon-avatar:before {
+    content: "\f163";
+}
+.fab-xcare-icon-brain-1:before {
+    content: "\f164";
+}
+.fab-xcare-icon-cells:before {
+    content: "\f165";
+}
+.fab-xcare-icon-blood-donation:before {
+    content: "\f166";
+}
+.fab-xcare-icon-face-mask-1:before {
+    content: "\f167";
+}
+.fab-xcare-icon-location:before {
+    content: "\f168";
+}
+.fab-xcare-icon-email:before {
+    content: "\f169";
+}
+.fab-xcare-icon-phone-call:before {
+    content: "\f16a";
+}
+.fab-xcare-icon-share:before {
+    content: "\f16b";
+}
+.fab-xcare-icon-down-arrow:before {
+    content: "\f16c";
+}
+.fab-xcare-icon-play-button:before {
+    content: "\f16d";
+}
+.fab-xcare-icon-subscribe:before {
+    content: "\f16e";
+}
